@@ -1,0 +1,58 @@
+<RCC>
+    <qresource prefix="/login">
+        <file>images/login/edittext_bj.png</file>
+        <file>images/login/lock_ico.png</file>
+        <file>images/login/login_bj.jpg</file>
+        <file>images/login/loging_button_bj.png</file>
+        <file>images/login/AddUser.png</file>
+        <file>images/login/settings.png</file>
+    </qresource>
+    <qresource prefix="/main">
+        <file>images/main/admin_ico.png</file>
+        <file>images/main/email_no_ico.png</file>
+        <file>images/main/email_yes_ico.png</file>
+        <file>images/main/farfight_logo.png</file>
+        <file>images/main/home_bh.png</file>
+        <file>images/main/home_ico.png</file>
+        <file>images/main/humidity_button_ico.png</file>
+        <file>images/main/illumination_button_ico.png</file>
+        <file>images/main/pellet_ico.png</file>
+        <file>images/main/temperature_button_ico.png</file>
+        <file>images/main/video_button_ico.png</file>
+        <file>images/main/yule_button_ico.png</file>
+        <file>images/main/speaker_48px_563821_easyicon.net.png</file>
+        <file>images/main/speaker_mute_48px_563822_easyicon.net.png</file>
+        <file>images/main/video.png</file>
+        <file>images/main/mouse.png</file>
+        <file>images/main/music.png</file>
+    </qresource>
+    <qresource prefix="/door">
+        <file>images/door/20081205_dbaae257895836388891FEPiju7Hfab0.png</file>
+        <file>images/door/closedoor_ico.png</file>
+        <file>images/door/closefan_ico.png</file>
+        <file>images/door/closeled_ico.png</file>
+        <file>images/door/devmanger_bj.png</file>
+        <file>images/door/opendoor_ico.png</file>
+        <file>images/door/openfan_ico.png</file>
+        <file>images/door/openled_ico.png</file>
+        <file>images/door/switch_off.png</file>
+        <file>images/door/switch_on.png</file>
+    </qresource>
+    <qresource prefix="/games">
+        <file>images/games/background01.png</file>
+        <file>images/games/box.gif</file>
+        <file>images/games/icon.png</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>images/music/music.png</file>
+    </qresource>
+    <qresource prefix="/video">
+        <file>images/video/back.png</file>
+        <file>images/video/fast_back.png</file>
+        <file>images/video/fast_forward.png</file>
+        <file>images/video/next.png</file>
+        <file>images/video/pause.png</file>
+        <file>images/video/play.png</file>
+        <file>images/video/stop.png</file>
+    </qresource>
+</RCC>

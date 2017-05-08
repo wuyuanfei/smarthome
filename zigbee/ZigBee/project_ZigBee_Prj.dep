@@ -1,0 +1,179 @@
+Dependencies for Project 'project', Target 'ZigBee_Prj': (DO NOT MODIFY !)
+F (..\Lib_MCU\src\startup_LPC11xx.s)(0x4DB00F5A)(--cpu Cortex-M0 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC11xx--list .\listing\startup_lpc11xx.lst --xref -o .\output\startup_lpc11xx.o --depend .\output\startup_lpc11xx.d)
+F (..\Lib_MCU\src\core_cm0.c)(0x4B8286F6)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I..\Lib_MCU\inc -I..\Lib_BSP\inc -I.\inc-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC11xx-o .\output\core_cm0.o --omf_browse .\output\core_cm0.crf --depend .\output\core_cm0.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x586F86A1)
+F (..\Lib_MCU\src\system_LPC11xx.c)(0x4E04A14A)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I..\Lib_MCU\inc -I..\Lib_BSP\inc -I.\inc-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC11xx-o .\output\system_lpc11xx.o --omf_browse .\output\system_lpc11xx.crf --depend .\output\system_lpc11xx.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x586F86A1)
+I (..\Lib_MCU\inc\LPC11xx.h)(0x4C752748)
+I (..\Lib_MCU\inc\core_cm0.h)(0x4B8286F8)
+I (..\Lib_MCU\inc\system_LPC11xx.h)(0x4C752748)
+F (..\Lib_MCU\src\gpio.c)(0x4ED03322)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I..\Lib_MCU\inc -I..\Lib_BSP\inc -I.\inc-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC11xx-o .\output\gpio.o --omf_browse .\output\gpio.crf --depend .\output\gpio.d)
+I (..\Lib_MCU\inc\LPC11xx.h)(0x4C752748)
+I (..\Lib_MCU\inc\core_cm0.h)(0x4B8286F8)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x586F86A1)
+I (..\Lib_MCU\inc\system_LPC11xx.h)(0x4C752748)
+I (..\Lib_MCU\inc\gpio.h)(0x4E134160)
+F (..\Lib_MCU\src\uart.c)(0x4E1D974C)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I..\Lib_MCU\inc -I..\Lib_BSP\inc -I.\inc-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC11xx-o .\output\uart.o --omf_browse .\output\uart.crf --depend .\output\uart.d)
+I (C:\Keil\ARM\ARMCC\include\stdarg.h)(0x51C7C554)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7C554)
+I (..\Lib_MCU\inc\LPC11xx.h)(0x4C752748)
+I (..\Lib_MCU\inc\core_cm0.h)(0x4B8286F8)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x586F86A1)
+I (..\Lib_MCU\inc\system_LPC11xx.h)(0x4C752748)
+I (..\Lib_MCU\inc\uart.h)(0x5875DC6D)
+F (..\Lib_MCU\src\retarget.c)(0x4E1D974C)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I..\Lib_MCU\inc -I..\Lib_BSP\inc -I.\inc-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC11xx-o .\output\retarget.o --omf_browse .\output\retarget.crf --depend .\output\retarget.d)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7C554)
+I (C:\Keil\ARM\ARMCC\include\rt_misc.h)(0x51C7C554)
+I (..\Lib_MCU\inc\LPC11xx.h)(0x4C752748)
+I (..\Lib_MCU\inc\core_cm0.h)(0x4B8286F8)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x586F86A1)
+I (..\Lib_MCU\inc\system_LPC11xx.h)(0x4C752748)
+I (..\Lib_MCU\inc\uart.h)(0x5875DC6D)
+F (..\Lib_MCU\src\ssp.c)(0x56F215FC)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I..\Lib_MCU\inc -I..\Lib_BSP\inc -I.\inc-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC11xx-o .\output\ssp.o --omf_browse .\output\ssp.crf --depend .\output\ssp.d)
+I (..\Lib_MCU\inc\LPC11xx.h)(0x4C752748)
+I (..\Lib_MCU\inc\core_cm0.h)(0x4B8286F8)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x586F86A1)
+I (..\Lib_MCU\inc\system_LPC11xx.h)(0x4C752748)
+I (..\Lib_MCU\inc\gpio.h)(0x4E134160)
+I (..\Lib_MCU\inc\ssp.h)(0x4E1592EA)
+F (..\Lib_MCU\src\i2c.c)(0x4E025C1C)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I..\Lib_MCU\inc -I..\Lib_BSP\inc -I.\inc-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC11xx-o .\output\i2c.o --omf_browse .\output\i2c.crf --depend .\output\i2c.d)
+I (..\Lib_MCU\inc\lpc11xx.h)(0x4C752748)
+I (..\Lib_MCU\inc\core_cm0.h)(0x4B8286F8)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x586F86A1)
+I (..\Lib_MCU\inc\system_LPC11xx.h)(0x4C752748)
+I (..\Lib_MCU\inc\type.h)(0x4E2C9D60)
+I (..\Lib_MCU\inc\i2c.h)(0x4B8286F8)
+F (..\Lib_MCU\src\timer32.c)(0x4E047A78)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I..\Lib_MCU\inc -I..\Lib_BSP\inc -I.\inc-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC11xx-o .\output\timer32.o --omf_browse .\output\timer32.crf --depend .\output\timer32.d)
+I (..\Lib_MCU\inc\LPC11xx.h)(0x4C752748)
+I (..\Lib_MCU\inc\core_cm0.h)(0x4B8286F8)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x586F86A1)
+I (..\Lib_MCU\inc\system_LPC11xx.h)(0x4C752748)
+I (..\Lib_MCU\inc\timer32.h)(0x4E047A54)
+F (..\Lib_MCU\src\clkconfig.c)(0x4E2D4D96)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I..\Lib_MCU\inc -I..\Lib_BSP\inc -I.\inc-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC11xx-o .\output\clkconfig.o --omf_browse .\output\clkconfig.crf --depend .\output\clkconfig.d)
+I (..\Lib_MCU\inc\LPC11xx.h)(0x4C752748)
+I (..\Lib_MCU\inc\core_cm0.h)(0x4B8286F8)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x586F86A1)
+I (..\Lib_MCU\inc\system_LPC11xx.h)(0x4C752748)
+I (..\Lib_MCU\inc\clkconfig.h)(0x4C752748)
+F (..\Lib_BSP\src\tools.c)(0x4E1330BA)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I..\Lib_MCU\inc -I..\Lib_BSP\inc -I.\inc-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC11xx-o .\output\tools.o --omf_browse .\output\tools.crf --depend .\output\tools.d)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7C554)
+I (..\Lib_MCU\inc\lpc11xx.h)(0x4C752748)
+I (..\Lib_MCU\inc\core_cm0.h)(0x4B8286F8)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x586F86A1)
+I (..\Lib_MCU\inc\system_LPC11xx.h)(0x4C752748)
+I (..\Lib_MCU\inc\gpio.h)(0x4E134160)
+I (..\Lib_MCU\inc\uart.h)(0x5875DC6D)
+F (..\Lib_BSP\src\oled2864.c)(0x4ECACB94)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I..\Lib_MCU\inc -I..\Lib_BSP\inc -I.\inc-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC11xx-o .\output\oled2864.o --omf_browse .\output\oled2864.crf --depend .\output\oled2864.d)
+I (..\Lib_MCU\inc\lpc11xx.h)(0x4C752748)
+I (..\Lib_MCU\inc\core_cm0.h)(0x4B8286F8)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x586F86A1)
+I (..\Lib_MCU\inc\system_LPC11xx.h)(0x4C752748)
+I (..\Lib_MCU\inc\gpio.h)(0x4E134160)
+I (..\Lib_MCU\inc\ssp.h)(0x4E1592EA)
+F (..\Lib_BSP\src\spi_uart.c)(0x5875EAD8)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I..\Lib_MCU\inc -I..\Lib_BSP\inc -I.\inc-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC11xx-o .\output\spi_uart.o --omf_browse .\output\spi_uart.crf --depend .\output\spi_uart.d)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7C554)
+I (..\Lib_MCU\inc\LPC11xx.h)(0x4C752748)
+I (..\Lib_MCU\inc\core_cm0.h)(0x4B8286F8)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x586F86A1)
+I (..\Lib_MCU\inc\system_LPC11xx.h)(0x4C752748)
+I (..\Lib_MCU\inc\gpio.h)(0x4E134160)
+I (..\Lib_MCU\inc\ssp.h)(0x4E1592EA)
+I (..\Lib_MCU\inc\uart.h)(0x5875DC6D)
+I (..\Lib_BSP\inc\key.h)(0x4E143E44)
+I (..\Lib_BSP\inc\oled2864.h)(0x4ECACBAA)
+I (..\Lib_BSP\inc\spi_uart.h)(0x5875DC5E)
+I (..\Lib_BSP\inc\tools.h)(0x4E133090)
+I (.\inc\menu.h)(0x4E36BB02)
+F (..\Lib_BSP\src\key.c)(0x4E263E64)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I..\Lib_MCU\inc -I..\Lib_BSP\inc -I.\inc-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC11xx-o .\output\key.o --omf_browse .\output\key.crf --depend .\output\key.d)
+I (..\Lib_MCU\inc\lpc11xx.h)(0x4C752748)
+I (..\Lib_MCU\inc\core_cm0.h)(0x4B8286F8)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x586F86A1)
+I (..\Lib_MCU\inc\system_LPC11xx.h)(0x4C752748)
+I (..\Lib_MCU\inc\gpio.h)(0x4E134160)
+I (..\Lib_BSP\inc\key.h)(0x4E143E44)
+F (..\Lib_BSP\src\light.c)(0x4ECF78BA)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I..\Lib_MCU\inc -I..\Lib_BSP\inc -I.\inc-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC11xx-o .\output\light.o --omf_browse .\output\light.crf --depend .\output\light.d)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7C554)
+I (..\Lib_MCU\inc\lpc11xx.h)(0x4C752748)
+I (..\Lib_MCU\inc\core_cm0.h)(0x4B8286F8)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x586F86A1)
+I (..\Lib_MCU\inc\system_LPC11xx.h)(0x4C752748)
+I (..\Lib_MCU\inc\i2c.h)(0x4B8286F8)
+I (..\Lib_BSP\inc\oled2864.h)(0x4ECACBAA)
+I (..\Lib_BSP\inc\key.h)(0x4E143E44)
+I (..\Lib_BSP\inc\tools.h)(0x4E133090)
+I (..\Lib_BSP\inc\light.h)(0x4E1DB1B0)
+F (..\Lib_BSP\src\temp_hum.c)(0x4F5F2B20)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I..\Lib_MCU\inc -I..\Lib_BSP\inc -I.\inc-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC11xx-o .\output\temp_hum.o --omf_browse .\output\temp_hum.crf --depend .\output\temp_hum.d)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7C554)
+I (..\Lib_MCU\inc\LPC11xx.h)(0x4C752748)
+I (..\Lib_MCU\inc\core_cm0.h)(0x4B8286F8)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x586F86A1)
+I (..\Lib_MCU\inc\system_LPC11xx.h)(0x4C752748)
+I (..\Lib_MCU\inc\gpio.h)(0x4E134160)
+I (..\Lib_BSP\inc\oled2864.h)(0x4ECACBAA)
+I (..\Lib_BSP\inc\key.h)(0x4E143E44)
+I (..\Lib_BSP\inc\tools.h)(0x4E133090)
+I (..\Lib_BSP\inc\temp_hum.h)(0x4E1C702C)
+F (..\Lib_BSP\src\acc.c)(0x4ECF7514)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I..\Lib_MCU\inc -I..\Lib_BSP\inc -I.\inc-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC11xx-o .\output\acc.o --omf_browse .\output\acc.crf --depend .\output\acc.d)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7C554)
+I (..\Lib_MCU\inc\lpc11xx.h)(0x4C752748)
+I (..\Lib_MCU\inc\core_cm0.h)(0x4B8286F8)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x586F86A1)
+I (..\Lib_MCU\inc\system_LPC11xx.h)(0x4C752748)
+I (..\Lib_MCU\inc\i2c.h)(0x4B8286F8)
+I (..\Lib_BSP\inc\oled2864.h)(0x4ECACBAA)
+I (..\Lib_BSP\inc\key.h)(0x4E143E44)
+I (..\Lib_BSP\inc\tools.h)(0x4E133090)
+I (..\Lib_BSP\inc\acc.h)(0x4E2AD884)
+F (..\Lib_BSP\src\seg7led.c)(0x4E28C686)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I..\Lib_MCU\inc -I..\Lib_BSP\inc -I.\inc-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC11xx-o .\output\seg7led.o --omf_browse .\output\seg7led.crf --depend .\output\seg7led.d)
+I (..\Lib_MCU\inc\LPC11xx.h)(0x4C752748)
+I (..\Lib_MCU\inc\core_cm0.h)(0x4B8286F8)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x586F86A1)
+I (..\Lib_MCU\inc\system_LPC11xx.h)(0x4C752748)
+I (..\Lib_MCU\inc\gpio.h)(0x4E134160)
+I (..\Lib_BSP\inc\seg7led.h)(0x4E158982)
+F (.\src\main.c)(0x587C99EA)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I..\Lib_MCU\inc -I..\Lib_BSP\inc -I.\inc-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC11xx-o .\output\main.o --omf_browse .\output\main.crf --depend .\output\main.d)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7C554)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C7C554)
+I (..\Lib_MCU\inc\lpc11xx.h)(0x4C752748)
+I (..\Lib_MCU\inc\core_cm0.h)(0x4B8286F8)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x586F86A1)
+I (..\Lib_MCU\inc\system_LPC11xx.h)(0x4C752748)
+I (..\Lib_MCU\inc\clkconfig.h)(0x4C752748)
+I (..\Lib_MCU\inc\gpio.h)(0x4E134160)
+I (..\Lib_MCU\inc\uart.h)(0x5875DC6D)
+I (..\Lib_MCU\inc\timer32.h)(0x4E047A54)
+I (..\Lib_MCU\inc\ssp.h)(0x4E1592EA)
+I (..\Lib_MCU\inc\i2c.h)(0x4B8286F8)
+I (..\Lib_MCU\inc\rom_drivers.h)(0x4C9CD67A)
+I (..\Lib_MCU\inc\rom_driver_CAN.h)(0x4C9CD67A)
+I (..\Lib_BSP\inc\light.h)(0x4E1DB1B0)
+I (..\Lib_BSP\inc\oled2864.h)(0x4ECACBAA)
+I (..\Lib_BSP\inc\tools.h)(0x4E133090)
+I (..\Lib_BSP\inc\spi_uart.h)(0x5875DC5E)
+F (.\src\lpc11c14_it.c)(0x4F5F2B4E)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I..\Lib_MCU\inc -I..\Lib_BSP\inc -I.\inc-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC11xx-o .\output\lpc11c14_it.o --omf_browse .\output\lpc11c14_it.crf --depend .\output\lpc11c14_it.d)
+I (..\Lib_MCU\inc\LPC11xx.h)(0x4C752748)
+I (..\Lib_MCU\inc\core_cm0.h)(0x4B8286F8)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x586F86A1)
+I (..\Lib_MCU\inc\system_LPC11xx.h)(0x4C752748)
+I (..\Lib_MCU\inc\gpio.h)(0x4E134160)
+I (..\Lib_BSP\inc\spi_uart.h)(0x5875DC5E)
+F (.\my_functions.c)(0x5876F4FC)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I..\Lib_MCU\inc -I..\Lib_BSP\inc -I.\inc-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC11xx-o .\output\my_functions.o --omf_browse .\output\my_functions.crf --depend .\output\my_functions.d)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7C554)
+I (..\Lib_MCU\inc\lpc11xx.h)(0x4C752748)
+I (..\Lib_MCU\inc\core_cm0.h)(0x4B8286F8)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x586F86A1)
+I (..\Lib_MCU\inc\system_LPC11xx.h)(0x4C752748)
+I (..\Lib_MCU\inc\i2c.h)(0x4B8286F8)
+I (..\Lib_BSP\inc\oled2864.h)(0x4ECACBAA)
+I (..\Lib_BSP\inc\key.h)(0x4E143E44)
+I (..\Lib_BSP\inc\tools.h)(0x4E133090)
+I (..\Lib_MCU\inc\gpio.h)(0x4E134160)
+I (..\Lib_BSP\inc\light.h)(0x4E1DB1B0)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C7C554)
+I (..\Lib_MCU\inc\clkconfig.h)(0x4C752748)
+I (..\Lib_MCU\inc\uart.h)(0x5875DC6D)
+I (..\Lib_MCU\inc\timer32.h)(0x4E047A54)
+I (..\Lib_MCU\inc\ssp.h)(0x4E1592EA)
+I (..\Lib_MCU\inc\rom_drivers.h)(0x4C9CD67A)
+I (..\Lib_MCU\inc\rom_driver_CAN.h)(0x4C9CD67A)
+I (..\Lib_BSP\inc\spi_uart.h)(0x5875DC5E)

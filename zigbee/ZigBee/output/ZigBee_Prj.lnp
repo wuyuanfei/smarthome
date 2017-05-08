@@ -1,0 +1,26 @@
+--cpu Cortex-M0
+".\output\startup_lpc11xx.o"
+".\output\core_cm0.o"
+".\output\system_lpc11xx.o"
+".\output\gpio.o"
+".\output\uart.o"
+".\output\retarget.o"
+".\output\ssp.o"
+".\output\i2c.o"
+".\output\timer32.o"
+".\output\clkconfig.o"
+".\output\tools.o"
+".\output\oled2864.o"
+".\output\spi_uart.o"
+".\output\key.o"
+".\output\light.o"
+".\output\temp_hum.o"
+".\output\acc.o"
+".\output\seg7led.o"
+".\output\main.o"
+".\output\lpc11c14_it.o"
+".\output\my_functions.o"
+--strict --scatter ".\output\ZigBee_Prj.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\listing\ZigBee_Prj.map" -o .\output\ZigBee_Prj.axf
